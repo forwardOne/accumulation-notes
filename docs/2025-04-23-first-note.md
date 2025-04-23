@@ -1,4 +1,4 @@
-# [学習メモ] accumulation-notes 初期構成 & 初コミット！
+# [学習メモ] accumulation-notes 初期構成 & 初コミット
 
 ## 日付  
 2025-04-23
