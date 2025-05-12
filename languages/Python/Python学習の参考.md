@@ -10,5 +10,5 @@
 
 - Pythonプログラミング VTuber サプーさんのチャンネル <br>
   https://www.youtube.com/@pythonvtuber9917/featured <br>
-  基礎から網羅的に解説していくれている
+  基礎から網羅的に解説してくれている
 
